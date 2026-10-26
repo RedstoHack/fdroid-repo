@@ -1,0 +1,7 @@
+apps:
+  byebyedpi:
+    url: https://github.com/romanvht/ByeByeDPI
+  v2rayng:
+    url: https://github.com/2dust/v2rayNG
+  neuron_encrypt:
+    url: https://gitlab.com/theredhacker0345/neuron-encrypt
